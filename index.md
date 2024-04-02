@@ -4,7 +4,7 @@ layout: default
 
 # LLM Chronicles Analysis
 
-## Neural Networks and Multi-Layer Perceptrons
+## Neural Networks and Multi-Layer Perceptrons 
 
 - What are the neural networks ?
   - Perceptrons and artificial neurons
@@ -18,4 +18,7 @@ layout: default
 - Tensors and GPUs
 - Processing data in Batches
 
+## Hello 
+
 ## Multi-Layer Perceptrons and MNIST Digit Classification using PyTorch
+
