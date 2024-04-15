@@ -52,10 +52,5 @@ layout: default
 
 
 
+[NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html).
 
-
-<div style="position: fixed; bottom: 10px; right: 10px;">
-    <a href="https://henryhodelin.github.io/Neural Networks_and_Multi-Layer_Perceptrons.html/">
-        <button type="button">NEXT</button>
-    </a>
-</div>
