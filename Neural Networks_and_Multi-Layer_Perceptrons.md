@@ -4,7 +4,7 @@
     <a href="http://www.ejemplo1.com/">
         <button type="button">INDEX </button>
     </a>
-    <a href="http://www.ejemplo2.com/">
+    <a href="https://henryhodelin.github.io/Short_Resume_EN/">
         <button type="button">PREVIOUS</button>
     </a>
     <a href="http://www.ejemplo3.com/">

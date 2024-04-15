@@ -6,7 +6,7 @@ layout: default
 
 <div style="position: fixed; top: 10px; right: 10px;">
     <a href="https://henryhodelin.github.io/Short_Resume_EN/">
-        <button type="button">Next</button>
+        <button type="button">Spanish</button>
     </a>
 </div>
 
@@ -35,7 +35,7 @@ layout: default
 - Regresion implementation
 
 
-## Recurrent Neural Networks for Modelling Sequentian Data
+## Recurrent Neural Networks for Modelling Sequential Data
 
 - RNN and LSTM Cells
 - Language Modelling 
@@ -56,6 +56,6 @@ layout: default
 
 <div style="position: fixed; bottom: 10px; right: 10px;">
     <a href="https://henryhodelin.github.io/Short_Resume_EN/">
-        <button type="button">Next</button>
+        <button type="button">https://enryhodelin.github.io/Neural Networks_and_Multi-Layer_Perceptrons.html</button>
     </a>
 </div>
