@@ -49,7 +49,7 @@
 
 
 <div style="display: flex; justify-content: space-around;">
-    <a href="http://www.ejemplo1.com/">
+    <a href="https://henryhodelin.github.io/LLM_Chronicles_Analysis/">
         <button type="button">INDEX </button>
     </a>
     <a href="http://www.ejemplo2.com/">
