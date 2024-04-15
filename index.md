@@ -4,9 +4,15 @@ layout: default
 
 # LLM Chronicles Analysis
 
+<div style="position: fixed; top: 10px; right: 10px;">
+    <a href="https://henryhodelin.github.io/Short_Resume_EN/">
+        <button type="button">Next</button>
+    </a>
+</div>
+
 ## Neural Networks and Multi-Layer Perceptrons 
 
-- Whay is important to understand the neural networks ?
+- Why is important to understand the neural networks ?
 - What are the neural networks ?
   - Perceptrons and artificial neurons
   - Multilayer Perceptrons
@@ -19,14 +25,37 @@ layout: default
 - Tensors and GPUs
 - Processing data in Batches
 
-## Hello 
 
-## Multi-Layer Perceptrons and MNIST Digit Classification using PyTorch
+## Multi-Layer Perceptrons and MNIST Digit Classification and Nonlinear Regression using PyTorch and Tensorflow
 
-<!-- Esto es un ejemplo de Markdown que incluye HTML -->
+- Loss function and gradient descent
+- Mini-batch updates, momentum, SGD, ADAM
+- Evaluation, overfitting and underfitting
+- Digital recognition implementation
+- Regresion implementation
 
-[Enlace a una página](http://www.ejemplo.com/)
+
+## Recurrent Neural Networks for Modelling Sequentian Data
+
+- RNN and LSTM Cells
+- Language Modelling 
+- Building a World-Level Language Model using RNNs
+-Encoder/ Decoder RNN for Language Translation
+- Attention Mechanism
+
+## The Transformer Architecture
+
+- Making LLMs from Transformers: BERT
+- Fine-tuning DistilBERT 
+- GPT, Instruction Fine-Tuning, RLHF
+- RAG (Retrieval Augmented Generation)
+
+
+
+
 
 <div style="position: fixed; bottom: 10px; right: 10px;">
-    <button type="button">Botón</button>
+    <a href="https://henryhodelin.github.io/Short_Resume_EN/">
+        <button type="button">Next</button>
+    </a>
 </div>
