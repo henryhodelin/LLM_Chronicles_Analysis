@@ -22,15 +22,16 @@ layout: default
   - Universal aproximators
 - Modeling inputs for a neural networks 
 - Classification and Regression Tasks
-- Tensors and GPUs
-- Processing data in Batches
 
 
 ## Multi-Layer Perceptrons and MNIST Digit Classification and Nonlinear Regression using PyTorch and Tensorflow
 
+
 - Loss function and gradient descent
+- Processing data in Batches
 - Mini-batch updates, momentum, SGD, ADAM
 - Evaluation, overfitting and underfitting
+- Tensors and GPUs
 - Digital recognition implementation
 - Regresion implementation
 
@@ -52,5 +53,5 @@ layout: default
 
 
 
-[NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html)
+[NEXT](./1-Neural Networks_and_Multi-Layer_Perceptrons.html)
 
