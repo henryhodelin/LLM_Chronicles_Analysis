@@ -16,7 +16,7 @@ layout: default
 - What are the neural networks ?
   - Perceptrons and artificial neurons
   - Multilayer Perceptrons
-- Whay use neural networks ?
+- Why use neural networks ?
   - Concept of function
   - Functionals and operators
   - Universal aproximators
@@ -52,5 +52,5 @@ layout: default
 
 
 
-[NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html).
+[.                         .NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html)
 

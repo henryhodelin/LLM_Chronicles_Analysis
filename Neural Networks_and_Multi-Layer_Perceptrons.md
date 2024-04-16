@@ -1,35 +1,37 @@
 # Neural Networks and Multi-Layer Perceptrons
 
-<div style="display: flex; justify-content: space-around;">
-    <a href="http://www.ejemplo1.com/">
-        <button type="button">INDEX </button>
-    </a>
-    <a href="https://henryhodelin.github.io/Short_Resume_EN/">
-        <button type="button">PREVIOUS</button>
-    </a>
-    <a href="http://www.ejemplo3.com/">
-        <button type="button">NEXT</button>
-    </a>
-</div>
-
-
 
 ## Whay is important to understand the neural networks ?
 
+- Exito en variadas aplicaciones
+  - Ejemplos de aplicaciones en diferentes áreas
+
 ## What are the neural networks ?
 
-### Perceptrons and artificial neurons
+- Conceptos importantes
+  - Pares ordenados
+    - Funciones
+    - Funcionales
+    - Operadores
+    - Operadores múltiples
+  - Vectores
+    - Definición de vectores
+    - Combinación lineal de vectores
+    - Representación de operadores a través de vectores
+    - Representación de múltiples operadores utilizando vectores
+  - Teoremas de representación
+    - Funciones
+    - Funcionales
+    - Operadores
+    - Múltiples operadores
+  - Limitaciones
+    - Simetría
+    - Determinación de los coeficientes
 
-### Multilayer Perceptrons
 
-## Whay use neural networks ?
+## Perceptrons, artificial neurons and multilayer perceptrons
 
-### Concept of function
-
-### Functionals and operators
-
-
-### Universal aproximators
+- Explicación de la estructura de una neurona
 
 
 ## Modeling inputs for a neural networks 
@@ -39,25 +41,11 @@
 
 ## Tensors and GPUs
 
-
 ## Processing data in Batches
 
 
 
+[PREVIOUS](./main.html)  [NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html) 
 
-
-
-
-<div style="display: flex; justify-content: space-around;">
-    <a href="https://henryhodelin.github.io/LLM_Chronicles_Analysis/">
-        <button type="button">INDEX </button>
-    </a>
-    <a href="http://www.ejemplo2.com/">
-        <button type="button">PREVIOUS</button>
-    </a>
-    <a href="http://www.ejemplo3.com/">
-        <button type="button">NEXT</button>
-    </a>
-</div>
 
 
