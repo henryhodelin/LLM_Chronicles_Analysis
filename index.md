@@ -52,5 +52,5 @@ layout: default
 
 
 
-[.                         .NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html)
+[NEXT](./Neural Networks_and_Multi-Layer_Perceptrons.html)
 
